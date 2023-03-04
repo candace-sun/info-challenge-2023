@@ -1,1 +1,9 @@
 # info-challenge-2023
+The Council on the Preservation of Anthropological Records (CoPAR) promotes the archiving and discovery of archival materials for cultures across the globe; its website provides information about where to find anthropology archives and related resources. However, the current site is difficult to navigate: the information architecture is chaotic, formatting is inconsistent and occasionally makes pages unusable on mobile devices, and the site lacks a unified structure, hindering users from focusing on the purpose of their visit. Considering these problems, our team wanted to replace the outdated and counterintuitive site with more modern and user-friendly components that make use of distinctive graphics tailored to CoPAR’s theme.
+
+To do so, we completed general and sitemap brainstorming on Miro and prototyping on Figma to implement several proposed solutions. First, adding categorical tags to each archive entry for the time period, academic area of interest, field of study, geographic location, and more would make the data more accessible to those looking for specific archives. An improved search function that implements these filters would also make parsing through the resources more efficient. Additionally, visuals of supporting documents and researchers would increase user engagement and increase their connection with the subject matter. 
+
+We also thought that a modernized style, more cohesive theme, and increased interactive tools on the site, such as label icons and more accessible contact information, would increase ease of use. Reformatting the menu structure and including additional UI features such as buttons and embeds would more effectively highlight relevant data.
+
+### Wireframe example:
+![Wireframe](https://github.com/candace-sun/info-challenge-2023/blob/main/Wireframe%20Sample.png)
